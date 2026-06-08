@@ -7,21 +7,26 @@ This project was built on top of low-fidelity wireframes created during the idea
 
 ## App Screens
 
-### 1. Welcome Screen
-![Welcome Screen](1.%20Welcome%20Screen.png)
+1. **Welcome Screen** - App landing page
+2. **Choose an Era Screen** - Era selection interface  
+3. **Era Details Screen** - Historical period information
+4. **Journal Entry Screen** - User journaling interface
+5. **My Timeline Screen** - Personal learning timeline
 
-### 2. Choose an Era Screen
-![Choose an Era](2.%20Choose%20an%20Era.png)
-
-### 3. Era Details Screen
-![Era Details](3.%20Era%20Details.png)
-
-### 4. Journal Entry Screen
-![Journal Entry](4.Journal%20Entry.png)
-
-### 5. My Timeline Screen
-![My Timeline](5.%20My%20Time%20line.png)
+*Note: High-fidelity UI screen files are uploaded in the repository.*
 
 ---
 ### **Figma Link**
-[View Design on Figma](https://www.figma.com/design/cNKJxfzAiulPJAJMPPI0DY/Untitled?node-id=0-1&t=JPE4j6KvJ6Mg2QDd-1)
+[View Design on Figma](https://www.figma.com/design/cNKJxfzAiulPJAJMPPI0DY/Untitled?node-id=0-1&t=JPE4j6KvJ6Mg2QDd-1))
+
+
+
+
+
+
+
+
+
+
+
+
